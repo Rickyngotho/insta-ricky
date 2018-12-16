@@ -10,7 +10,7 @@ To be able to access the application the user should install the latest version 
 + User should follow other users and see their pictures on my timeline.
 + User should like a picture and leave a comment on it.
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 For a developer who wishes to view the work.You will have to clone my repository and check the requirements to be able to get all the tools needed for proper running of the applictaion and also check the version of python used from the runtime to assert you fullfill requirements to run the application. Getting Started. These instructions will get you a copy of the project up and running on a local host.
 Git clone https://github.com/Rickyngotho/insta-ricky.git
 
@@ -20,22 +20,22 @@ Activate virtual environment source virtual/bin/activate install pip using curl 
 
 Runnig the server python3.6 manage.py runserver
 
-Known Bugs
+## Known Bugs
 There are no unresolved issues in regards to this code that I know of.
 
-Prerequisites
+## Prerequisites
 To be able to run this web application, you will need to have a web browser, preferably Google Chrome or chromium. Just open the url link deployed on GitHub and run it.
 
-Technologies Used
+## Technologies Used
 I worked on this code on Linux OS. I used python as my primary language and django model to work on the Application. I worked on the code using vs code and Git applications
 
 Support and contact details
 If there are any issues on how the code runs, concerns, questions or ideas, kindly reach out to me on my email address; gicheric14@gmail.com
 
 live link to site
-Authors
+## Authors
 Eric Ngotho
 
-License
+## License
 MIT License
 Copyright (c) 2018 Rickyngotho
