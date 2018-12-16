@@ -1,6 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
-import date as dt
+# import date as dt
 
 # Create your models here.
 class Profile(models.Model):
