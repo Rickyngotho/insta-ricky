@@ -29,7 +29,7 @@ To be able to run this web application, you will need to have a web browser, pre
 ## Technologies Used
 I worked on this code on Linux OS. I used python as my primary language and django model to work on the Application. I worked on the code using vs code and Git applications
 
-Support and contact details
+## Support and contact details
 If there are any issues on how the code runs, concerns, questions or ideas, kindly reach out to me on my email address; gicheric14@gmail.com
 
 live link to site
