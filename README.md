@@ -21,7 +21,8 @@ Activate virtual environment source virtual/bin/activate install pip using curl 
 Runnig the server python3.6 manage.py runserver
 
 ## Known Bugs
-There are no unresolved issues in regards to this code that I know of.
+There are no unresolved issues in regards to this code that I know of if ther is please feel free to contact me at gicheric14@gmail.com
+
 
 ## Prerequisites
 To be able to run this web application, you will need to have a web browser, preferably Google Chrome or chromium. Just open the url link deployed on GitHub and run it.
