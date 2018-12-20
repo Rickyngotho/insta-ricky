@@ -56,7 +56,7 @@ class CommentTestCase(TestCase):
     test instance of comment
     '''
     def test_instance(self):
-        self.assertTrue(isinstance(self.comment,Commment))
+        self.assertTrue(isinstance(self.comment,Comment))
         '''
         test for save instance of comment
         '''
